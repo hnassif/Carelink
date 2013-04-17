@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HENRY</Machine>
+    <WindowsUser>hnassif</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F198C06FF72D963B11F00F3FC639B60B649599F2EA51F44899C705C792BA88A6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>850269ed-72f0-46d8-b0ac-8c41871864a0_1.0.0.0_neutral__p62f0awzy0rby</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>850269ed-72f0-46d8-b0ac-8c41871864a0_p62f0awzy0rby!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>850269ed-72f0-46d8-b0ac-8c41871864a0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hnassif</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-24T07:28:42.900</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\CareLink.exe">
+      <PackagePath>CareLink.exe</PackagePath>
+      <Modified>2013-04-17T02:16:23.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\CareLink.pdb">
+      <PackagePath>CareLink.pdb</PackagePath>
+      <Modified>2013-04-17T02:16:23.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\11.png">
+      <PackagePath>Assets\11.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\12.png">
+      <PackagePath>Assets\12.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\13.png">
+      <PackagePath>Assets\13.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\14.png">
+      <PackagePath>Assets\14.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\15.png">
+      <PackagePath>Assets\15.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\16.png">
+      <PackagePath>Assets\16.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\17.png">
+      <PackagePath>Assets\17.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\18.png">
+      <PackagePath>Assets\18.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\19.png">
+      <PackagePath>Assets\19.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\20.png">
+      <PackagePath>Assets\20.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\21.png">
+      <PackagePath>Assets\21.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\22.png">
+      <PackagePath>Assets\22.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\23.png">
+      <PackagePath>Assets\23.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\24.png">
+      <PackagePath>Assets\24.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\25.png">
+      <PackagePath>Assets\25.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\26.png">
+      <PackagePath>Assets\26.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\27.png">
+      <PackagePath>Assets\27.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\28.png">
+      <PackagePath>Assets\28.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\29.png">
+      <PackagePath>Assets\29.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\30.png">
+      <PackagePath>Assets\30.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\6.png">
+      <PackagePath>Assets\6.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\7.png">
+      <PackagePath>Assets\7.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\8.png">
+      <PackagePath>Assets\8.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\9.png">
+      <PackagePath>Assets\9.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\cameraLogo.png">
+      <PackagePath>Assets\cameraLogo.png</PackagePath>
+      <Modified>2013-03-23T20:07:45.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\CareLinkSplashScreen.png">
+      <PackagePath>Assets\CareLinkSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-23T22:47:09.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p1.png">
+      <PackagePath>Assets\p1.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p10.png">
+      <PackagePath>Assets\p10.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p11.png">
+      <PackagePath>Assets\p11.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p12.png">
+      <PackagePath>Assets\p12.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p13.png">
+      <PackagePath>Assets\p13.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p14.png">
+      <PackagePath>Assets\p14.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p15.png">
+      <PackagePath>Assets\p15.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p16.png">
+      <PackagePath>Assets\p16.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p17.png">
+      <PackagePath>Assets\p17.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p18.png">
+      <PackagePath>Assets\p18.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p19.png">
+      <PackagePath>Assets\p19.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p2.png">
+      <PackagePath>Assets\p2.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p20.png">
+      <PackagePath>Assets\p20.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p3.png">
+      <PackagePath>Assets\p3.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p4.png">
+      <PackagePath>Assets\p4.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p5.png">
+      <PackagePath>Assets\p5.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p6.png">
+      <PackagePath>Assets\p6.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p7.png">
+      <PackagePath>Assets\p7.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p8.png">
+      <PackagePath>Assets\p8.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\p9.png">
+      <PackagePath>Assets\p9.png</PackagePath>
+      <Modified>2013-03-23T21:50:52.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\AccelCareLogo01.png">
+      <PackagePath>Assets\AccelCareLogo01.png</PackagePath>
+      <Modified>2013-03-23T18:18:59.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\AccelCARELogo02.png">
+      <PackagePath>Assets\AccelCARELogo02.png</PackagePath>
+      <Modified>2013-03-23T18:18:59.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\AccelCARELogo03.png">
+      <PackagePath>Assets\AccelCARELogo03.png</PackagePath>
+      <Modified>2013-03-23T18:18:59.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\AccelCARELogo04.png">
+      <PackagePath>Assets\AccelCARELogo04.png</PackagePath>
+      <Modified>2013-03-23T18:18:59.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Screen shot 2013-02-23 at 2.48.52 AM.png">
+      <PackagePath>Screen shot 2013-02-23 at 2.48.52 AM.png</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\Resized-19WD1.jpg">
+      <PackagePath>Assets\Resized-19WD1.jpg</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\Resized-8MBZ6.jpg">
+      <PackagePath>Assets\Resized-8MBZ6.jpg</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Assets\Suliman, Fatmata, after,  %282%29 - Copy-filtered.jpg">
+      <PackagePath>Assets\Suliman, Fatmata, after,  %282%29 - Copy-filtered.jpg</PackagePath>
+      <Modified>2013-03-21T22:58:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\Resized-19WD1.jpg">
+      <PackagePath>Resized-19WD1.jpg</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-23T23:04:41.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-23T23:04:41.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\NotesPage.xaml">
+      <PackagePath>NotesPage.xaml</PackagePath>
+      <Modified>2013-03-23T23:04:41.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\QuizPage.xaml">
+      <PackagePath>QuizPage.xaml</PackagePath>
+      <Modified>2013-03-24T00:51:47.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\PhotoPage.xaml">
+      <PackagePath>PhotoPage.xaml</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\GroupDetailPage1.xaml">
+      <PackagePath>GroupDetailPage1.xaml</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-03-21T22:58:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2013-03-23T23:04:41.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2013-03-21T22:58:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2013-03-24T01:23:00.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hnassif\Desktop\carelink\new Version %282%29\new Version01\new Version\CareLink\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-23T23:37:18.221</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
